@@ -38,7 +38,7 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 ## 🏆 Competitive Programming & Kaggle
 
 <!-- Add contest results, notable solutions, etc. -->
-| Contest | Result / Notes | Link |
+| Contest/Projects | Result / Notes | Link |
 |---|---|---|
 | ICPC2025 Participant | Placed 75th in Domestic Qualifying | https://icpc.jp/2025/domestic/results/ |
 | Atcoder | Light Blue Rating | https://atcoder.jp/users/xbyts |
