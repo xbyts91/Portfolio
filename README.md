@@ -11,7 +11,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 | Document | Topics | Source |
 |---|---|---|
 | [Brownian Motion & Stochastic Calculus](./math/stochastic-analysis/) | Brownian motion, martingales, Itô integral, SDEs | Karatzas & Shreve |
-
+| [Rigorous Representation of the Financial Market](./math/methods-of-finance) | European ... | l;kjasdf |
+| [Insights on Complex Analysis](./math/complex-analysis) | The relevance of Conformal Mapping |  Kunihiko Kodaira |
 ---
 
 ## 💻 Implementation Projects
@@ -19,7 +20,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Example structure — fill in your own projects -->
 | Project | Description | Stack |
 |---|---|---|
-| [Project Name](./projects/project-name/) | Short description | Python / ... |
+| [Rough Path meets Deep Learning: Time Series Model of Neural CDE ](./projects/project-name/) | Short description | Python / ... |
+| [Comparison of a few Bayseian Optimization algorithms of ...](./projects/Bayseian-Optimization/) | Short description | Python |
 
 ---
 
@@ -28,7 +30,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Add papers, reports, or thesis work here -->
 | Title | Description | Link |
 |---|---|---|
-| Work in progress | — | — |
+| [Signature of Rough Paths](./research/Signature) | Short description | Python / Typst |
+| [Time series analysis of public economics](./research/Economics) | Short description | Python |
 
 ---
 
@@ -37,7 +40,10 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Add contest results, notable solutions, etc. -->
 | Contest | Result / Notes | Link |
 |---|---|---|
-| — | — | — |
+| ICPC2025 Participant | Placed 75th in Domestic Qualifying | https://icpc.jp/2025/domestic/results/ |
+| Atcoder | Light Blue Rating | https://atcoder.jp/users/xbyts |
+| Kaggle | ???? | https://www.kaggle.com/leonardoueda | 
+| [Core Concepts of Competitive Programming](./programming/core-concepts) | Personal Notes on Standard Algorithms | 
 
 ---
 
