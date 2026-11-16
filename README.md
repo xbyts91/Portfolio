@@ -40,9 +40,9 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Add contest results, notable solutions, etc. -->
 | Contest/Projects | Result / Notes | Link |
 |---|---|---|
-| ICPC2025 Participant | Placed 35th in Domestic Qualifying | https://icpc.jp/2025/domestic/results/ |
-| Atcoder | Light Blue Rating | https://atcoder.jp/users/xbyts |
-| Kaggle | ???? | https://www.kaggle.com/leonardoueda | 
+| ICPC2025 Participant | Placed 33th in Domestic Qualifying | https://icpc.jp/2025/domestic/results/ |
+<!-- | Atcoder | Light Blue Rating | https://atcoder.jp/users/xbyts |
+| Kaggle | ???? | https://www.kaggle.com/leonardoueda |  -->
 | [Core Concepts of Competitive Programming](./programming/core-concepts) | Personal Notes on Standard Algorithms | 
 
 ---
