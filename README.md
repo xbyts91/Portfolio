@@ -11,8 +11,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 | Document | Topics | Source |
 |---|---|---|
 | [Brownian Motion & Stochastic Calculus](./math/stochastic-analysis/) | Brownian motion, martingales, Itô integral, SDEs | Karatzas & Shreve |
-| [Rigorous Representation of the Financial Market](./math/methods-of-finance) | European ... | l;kjasdf |
-| [Insights on Complex Analysis](./math/complex-analysis) | The relevance of Conformal Mapping |  Kunihiko Kodaira |
+| [Rigorous Representation of the Financial Market](./math/methods-of-finance) | Options and Pricing on a Standard Financial Market | Karatzas & Shreve  |
+| [Insights on Complex Analysis and Complex Geometry](./math/complex-analysis) | Picard's theorem, Complex Torus |  Kunihiko Kodaira |
 ---
 
 ## 💻 Implementation Projects
@@ -20,8 +20,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Example structure — fill in your own projects -->
 | Project | Description | Stack |
 |---|---|---|
-| [Rough Path meets Deep Learning: Time Series Model of Neural CDE ](./projects/project-name/) | Short description | Python / ... |
-| [Comparison of a few Bayseian Optimization algorithms of ...](./projects/Bayseian-Optimization/) | Short description | Python |
+| [Rough Path meets Deep Learning: Time Series Model of Neural CDE ](./projects/NCDE/) | Implementation of Neural CDEs | Python |
+| [Comparison of a few Bayseian Optimization algorithms](./projects/Bayseian-Optimization/) | Implemented examples to compare algorithms | Python |
 
 ---
 
@@ -30,8 +30,7 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 <!-- Add papers, reports, or thesis work here -->
 | Title | Description | Link |
 |---|---|---|
-| [Signature of Rough Paths](./research/Signature) | Short description | Python / Typst |
-| [Time series analysis of public economics](./research/Economics) | Short description | Python |
+| [Work In Progress: Signature of Rough Paths](./research/Signature) | Short description | Python / Typst |
 
 ---
 
@@ -42,18 +41,8 @@ Rigorous summaries of topics in pure and applied mathematics, typeset in [Typst]
 |---|---|---|
 | ICPC2025 Participant | Placed 33th in Domestic Qualifying | https://icpc.jp/2025/domestic/results/ |
 | [Core Concepts of Competitive Programming](./programming/core-concepts) | Personal Notes on Standard Algorithms | 
-<!-- | Atcoder | Light Blue Rating | https://atcoder.jp/users/xbyts |
-| Kaggle | ???? | https://www.kaggle.com/leonardoueda |  -->
 
 
----
-
-## About
-
-I am a prospective graduate student interested in **[your research interests, e.g. stochastic analysis, machine learning theory, mathematical finance]**. This repository collects work that reflects my mathematical background and programming ability.
-
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
